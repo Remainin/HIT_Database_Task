@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.5" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="StudentInfo Search designed by ZhangMingshuai"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jScrollPane2" alignment="0" pref="621" max="32767" attributes="2"/>
+                  <Component id="jScrollPane1" alignment="0" pref="621" max="32767" attributes="2"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="1" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="numberCheck" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="number" pref="190" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="nameCheck" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="name" pref="190" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="1" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="ageCheck" min="-2" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="age_begin" pref="74" max="32767" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="jLabel1" min="-2" pref="25" max="-2" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Component id="age_end" pref="81" max="32767" attributes="0"/>
+                                      <EmptySpace max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel2" min="-2" pref="131" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="sexCheck" min="-2" pref="54" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="clasCheck" min="-2" max="-2" attributes="0"/>
+                          <Component id="departmentCheck" min="-2" max="-2" attributes="0"/>
+                          <Component id="addressCheck" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="address" pref="140" max="32767" attributes="2"/>
+                          <Component id="department" alignment="1" pref="140" max="32767" attributes="3"/>
+                          <Component id="sex" alignment="1" pref="140" max="32767" attributes="0"/>
+                          <Component id="clas" alignment="1" pref="140" max="32767" attributes="2"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="34" max="-2" attributes="0"/>
+                      <Component id="jButton1" min="-2" pref="111" max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jLabel3" alignment="0" min="-2" pref="131" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jButton1" min="-2" pref="103" max="-2" attributes="1"/>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="4" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="numberCheck" min="-2" max="-2" attributes="0"/>
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="2" pref="2" max="2" attributes="0"/>
+                                      <Component id="number" min="-2" pref="24" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="nameCheck" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="name" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="age_begin" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="ageCheck" alignment="3" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="3" attributes="0">
+                                          <Component id="age_end" alignment="3" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jLabel1" alignment="3" min="-2" pref="18" max="-2" attributes="0"/>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="sex" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="sexCheck" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="clas" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="clasCheck" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="department" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                                  <Component id="departmentCheck" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="address" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="addressCheck" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" pref="75" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="134" max="32767" attributes="0"/>
+              <EmptySpace min="-2" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="jTable1">
+          <Properties>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="7" rowCount="0">
+                <Column editable="false" title="Sid" type="java.lang.Object"/>
+                <Column editable="false" title="Sname" type="java.lang.Object"/>
+                <Column editable="false" title="Sage" type="java.lang.Object"/>
+                <Column editable="false" title="Ssex" type="java.lang.Object"/>
+                <Column editable="false" title="Sclass" type="java.lang.Object"/>
+                <Column editable="false" title="Sdept" type="java.lang.Object"/>
+                <Column editable="false" title="Saddr" type="java.lang.Object"/>
+              </Table>
+            </Property>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="statement">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="lineWrap" type="boolean" value="true"/>
+            <Property name="rows" type="int" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="3" type="code"/>
+            </Property>
+            <Property name="wrapStyleWord" type="boolean" value="true"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JTextField" name="number">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="numberCheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x5b66;&#x53f7;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nameCheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x59d3;&#x540d;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="name">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="ageCheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x5e74;&#x9f84;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="age_begin">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="sexCheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x6027;&#x522b;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="sex">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="departmentCheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x7cfb;&#x522b;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="department">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="clasCheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x73ed;&#x7ea7;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="clas">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="addressCheck">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x5730;&#x5740;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="address">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x5230;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="age_end">
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="&#x6977;&#x4f53;" size="36" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&#x67e5;&#x8be2;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x5bf9;&#x5e94;SQL&#x8bed;&#x53e5;&#xff1a;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x67e5;&#x8be2;&#x7ed3;&#x679c;&#xff1a;"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
