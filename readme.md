@@ -1,10 +1,11 @@
-# ¹þ¹¤´ó¼ÆËã»úÑ§Ôº-Êý¾Ý¿âÏµÍ³-×÷Òµ
+# å“ˆå·¥å¤§è®¡ç®—æœºå­¦é™¢-æ•°æ®åº“ç³»ç»Ÿ-ä½œä¸š
 
-### ËµÃ÷£º
+### è¯´æ˜Žï¼š
 
-ÊµÏÖ´úÂëÎªJava£¬²¢ÇÒº¬ÓÐUI½çÃæ¡£ÒªÇóµÄ¹¦ÄÜÈ«²¿ÊµÏÖ£¬´úÂëºÍsqlÏÂÔØºó£¬ÐèÒª°ÉsqlÎÄ¼þµ¼Èë±¾µØÊý¾Ý¿â£¬ÎÒµÄÊý¾Ý¿âÃûÎª¡°sdb¡±£¬Í¬Ê±ÔÚEclipseÖÐÁ¬½ÓÊý¾Ý¿âµÄÊ±ºòÇëÓë×Ô¼º±¾µØµÄ»·¾³×ö¶ÔÓ¦£¬×¢ÒâÒªÏÂÔØ¶ÔÓ¦jar°üÒÔÅäÖÃÊý¾Ý¿âÓëEclipseµÄÁ¬½Ó£¬ÎÒµÄjar°üÎª£ºmysql-connector-java-5.1.30-bin.jar¡£Java´úÂëÈç¹ûÔÚÄãµÄIDEÖÐ²»¿ÉÓÃ£¬¿Éµ÷ÊÔ»·¾³£¨JRE System Library£©£¬´ó¶àÊýÌõ¼þÏÂÖ»Ðè¸ü¸ÄJDKµÄ°æ±¾¼´¿ÉÒÔÔËÐÐ(ÎÒµÄJDK°æ±¾Îªjdk1.8.0_45£¬Èç¹ûÄãµÄ°æ±¾¹ý¾ÃÇëÏÂÔØ¸Ãjdk1.8ºóÔÙÊ¹ÓÃ£¬¹ýÐÂµÄjdk°æ±¾Ò»°ã²»ÐèÒª£¬°æ±¾¸üÐÂÒ»°ãÏòÏÂ¼æÈÝ)£¬Èç¹ûÄãµçÄÔÖÐÓÐjdk1.8£¬¿ÉÒÔÖ±½ÓÔÚÏîÄ¿Configure Build PathÖÐµÄLibrariesÖÐÐÞ¸ÄÔËÐÐ»·¾³¼´¿É£¬·ñÔòÏÂÔØjdk1.8ºó¾ßÌåµ÷ÊÔ·½·¨£¬Çëµã»÷[ÕâÀï](https://jingyan.baidu.com/article/6dad5075122d05a123e36ed4.html)¡£<br><br>
-×¢£ºÈç¹ûÓÐÒÉÎÊ»ò´úÂë²»ºÃÓÃ»¶Ó­ËæÊ±É§ÈÅÎÒ£ºzhangmingshuai3@qq.com
+å®žçŽ°ä»£ç ä¸ºJavaï¼Œå¹¶ä¸”å«æœ‰UIç•Œé¢ã€‚è¦æ±‚çš„åŠŸèƒ½å…¨éƒ¨å®žçŽ°ï¼Œä»£ç å’Œsqlä¸‹è½½åŽï¼Œéœ€è¦å§sqlæ–‡ä»¶å¯¼å…¥æœ¬åœ°æ•°æ®åº“ï¼Œæˆ‘çš„æ•°æ®åº“åä¸ºâ€œsdbâ€ï¼ŒåŒæ—¶åœ¨Eclipseä¸­è¿žæŽ¥æ•°æ®åº“çš„æ—¶å€™è¯·ä¸Žè‡ªå·±æœ¬åœ°çš„çŽ¯å¢ƒåšå¯¹åº”ï¼Œæ³¨æ„è¦ä¸‹è½½å¯¹åº”jaråŒ…ä»¥é…ç½®æ•°æ®åº“ä¸ŽEclipseçš„è¿žæŽ¥ï¼Œæˆ‘çš„jaråŒ…ä¸ºï¼šmysql-connector-java-5.1.30-bin.jarã€‚Javaä»£ç å¦‚æžœåœ¨ä½ çš„IDEä¸­ä¸å¯ç”¨ï¼Œå¯è°ƒè¯•çŽ¯å¢ƒï¼ˆJRE System Libraryï¼‰ï¼Œå¤§å¤šæ•°æ¡ä»¶ä¸‹åªéœ€æ›´æ”¹JDKçš„ç‰ˆæœ¬å³å¯ä»¥è¿è¡Œ(æˆ‘çš„JDKç‰ˆæœ¬ä¸ºjdk1.8.0_45ï¼Œå¦‚æžœä½ çš„ç‰ˆæœ¬è¿‡ä¹…è¯·ä¸‹è½½è¯¥jdk1.8åŽå†ä½¿ç”¨ï¼Œè¿‡æ–°çš„jdkç‰ˆæœ¬ä¸€èˆ¬ä¸éœ€è¦ï¼Œç‰ˆæœ¬æ›´æ–°ä¸€èˆ¬å‘ä¸‹å…¼å®¹)ï¼Œå¦‚æžœä½ ç”µè„‘ä¸­æœ‰jdk1.8ï¼Œå¯ä»¥ç›´æŽ¥åœ¨é¡¹ç›®Configure Build Pathä¸­çš„Librariesä¸­ä¿®æ”¹è¿è¡ŒçŽ¯å¢ƒå³å¯ï¼Œå¦åˆ™ä¸‹è½½jdk1.8åŽå…·ä½“è°ƒè¯•æ–¹æ³•ï¼Œè¯·ç‚¹å‡»[è¿™é‡Œ](https://jingyan.baidu.com/article/6dad5075122d05a123e36ed4.html)ã€‚<br><br>
+æ³¨ï¼šå¦‚æžœæœ‰ç–‘é—®æˆ–ä»£ç ä¸å¥½ç”¨æ¬¢è¿Žéšæ—¶éªšæ‰°æˆ‘ï¼šzhangmingshuai3@qq.com
 	
-### ÊµÑéÒªÇó£º<br>
+### å®žéªŒè¦æ±‚ï¼š<br>
 
-¾ßÌåÒªÇóÇë¼û`¡°×÷ÒµÒªÇó.png¡±`¡£
+å…·ä½“è¦æ±‚å¦‚ä¸‹ï¼š<br>
+![](https://github.com/Remainin/HIT_Database_Task/blob/master/%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82.png)
