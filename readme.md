@@ -8,4 +8,4 @@
 ### 实验要求：<br>
 
 具体要求如下：<br>
-![](https://github.com/Remainin/HIT_Database_Task/blob/master/%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82.png)
+![](https://github.com/Remainin/Student_Info_Management_System/blob/master/%E4%BD%9C%E4%B8%9A%E8%A6%81%E6%B1%82.png)
